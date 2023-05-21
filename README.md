@@ -415,4 +415,4 @@ navigasi header dapat menampilkan tampilan dengan layout yang sama.</p>
 
 ![Output](img/output.png)
 
-<img src="https://tenor.com/view/cute-hamster-love-thank-you-so-much-thank-you-gif-17882710">
+<img src="https://media.tenor.com/n9u7zcGqlUQAAAAi/cute-hamster.gif">
